@@ -13,9 +13,9 @@ I am a Graduate student(Masters of Language Technologies) in Langauge Technologi
 Recent News
 ======
 * 2nd August, 2019. Our paper on story generation has been featured in over three articles. Check it out!
-    * https://www.cs.cmu.edu/news/storytelling-bots-learn-punch-their-last-lines
-    * https://medium.com/artificial-intelligence-network/a-writing-algorithm-that-finishes-stories-3971c0896bb9
-    * https://venturebeat.com/2019/07/22/ai-generates-interesting-story-endings/
+    * [Storytelling Bots Learn To Punch Up Their Last Lines](https://www.cs.cmu.edu/news/storytelling-bots-learn-punch-their-last-lines)
+    * [A writing algorithm that finishes stories](https://medium.com/artificial-intelligence-network/a-writing-algorithm-that-finishes-stories-3971c0896bb9)
+    * [AI generates interesting story endings](https://venturebeat.com/2019/07/22/ai-generates-interesting-story-endings/)
 * May 31st, 2019. Our paper on generating interesting story endings has been accepted at Storytelling workshop ACL 2019.   
 * May 31st 2019. Our paper on textual inference for medical domain has been accepted at the MediQa Workshop ACL 2019.  
 * March 24th, 2019. Presented my paper at Stanford in the PAL AAAI symposium.
