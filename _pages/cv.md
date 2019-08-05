@@ -11,4 +11,4 @@ redirect_from:
 
 ## Vinayshekhar Bannihatti Kumar
 
-[Click here to view my resume](https://vinayshekhar000.github.io/files/cv.pdf)
+[Click here to view my resume](https://vinayshekhar000.github.io/files/Vinayshekhar-Resume.pdf)
