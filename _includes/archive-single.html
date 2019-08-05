@@ -26,9 +26,9 @@
       </div>
     {% endif %}
 
-    <h2 class="archive__item-title">
-      {% if post.link %}
-       {{ title }}
+    <h2 class="">
+      {% if post.paperurl %}
+      <a href="{{post.paperurl}}">{{ title }}</a>
       {% else %}
         {{ title }}
       {% endif %}
@@ -52,6 +52,11 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
 
+    {% if post.github_link %}
+    <p>Code available <a href="{{post.github_link}}">here</a>
+    {% endif %}
 
-  </article>
-</div>
+    {% if post.results %}
+    <p>View results <a href="{{post.results}}">here</a></p>
+    {% endif %}
+
